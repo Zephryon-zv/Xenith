@@ -3,7 +3,7 @@ ___________
 
 Xyper OS is a free, open-source, minimalistic and light-weight operating based on x86 Assembly
 
-## > Status:
+> ## Status:
 
 ```
 This OS is at its initial stages many updates will come soon..
